@@ -27,7 +27,7 @@
     - [ ]  Store hashed passwords in database (bcrypt)
     - [ ]  The public IP doesn't expose other ports than 80 and 443 (and 22) (can be verified with `nmap -sV` or `nmap -sT`)
 
-- [ ]  A4- XXE (non appliable)
+- [ ]  A4- XXE
 
 - [ ]  A5 - Broken Access Control
     - [ ]  Check the extensive usage of JWT to permit access to protected data for users
